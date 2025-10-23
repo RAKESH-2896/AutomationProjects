@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-23T12:29:55 IST" name="SauceDemoSuite" finished-at="2025-10-23T12:30:57 IST" duration-ms="61523">
+    <groups>
+    </groups>
+    <test started-at="2025-10-23T12:29:55 IST" name="SauceDemoTests" finished-at="2025-10-23T12:30:57 IST" duration-ms="61523">
+      <class name="com.saucedemo.tests.CheckoutOverviewTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.CheckoutOverviewTest@7d94beb9]" started-at="2025-10-23T12:30:43 IST" name="setUp" finished-at="2025-10-23T12:30:48 IST" duration-ms="5736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalPrice()[pri:0, instance:com.saucedemo.tests.CheckoutOverviewTest@7d94beb9]" started-at="2025-10-23T12:30:48 IST" name="verifyTotalPrice" finished-at="2025-10-23T12:30:49 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalPrice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.CheckoutOverviewTest@7d94beb9]" started-at="2025-10-23T12:30:49 IST" name="tearDown" finished-at="2025-10-23T12:30:49 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.CheckoutOverviewTest -->
+      <class name="com.saucedemo.tests.CheckoutInfoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.CheckoutInfoTest@609bcfb6]" started-at="2025-10-23T12:30:35 IST" name="setUp" finished-at="2025-10-23T12:30:41 IST" duration-ms="6001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fillCheckoutInformation()[pri:0, instance:com.saucedemo.tests.CheckoutInfoTest@609bcfb6]" started-at="2025-10-23T12:30:41 IST" name="fillCheckoutInformation" finished-at="2025-10-23T12:30:42 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillCheckoutInformation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.CheckoutInfoTest@609bcfb6]" started-at="2025-10-23T12:30:42 IST" name="tearDown" finished-at="2025-10-23T12:30:43 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.CheckoutInfoTest -->
+      <class name="com.saucedemo.tests.InventoryTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.InventoryTest@72ade7e3]" started-at="2025-10-23T12:30:11 IST" name="setUp" finished-at="2025-10-23T12:30:16 IST" duration-ms="5276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductCount()[pri:0, instance:com.saucedemo.tests.InventoryTest@72ade7e3]" started-at="2025-10-23T12:30:16 IST" name="verifyProductCount" finished-at="2025-10-23T12:30:17 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.InventoryTest@72ade7e3]" started-at="2025-10-23T12:30:17 IST" name="tearDown" finished-at="2025-10-23T12:30:17 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.InventoryTest -->
+      <class name="com.saucedemo.tests.ProductDetailsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.ProductDetailsTest@239105a8]" started-at="2025-10-23T12:30:17 IST" name="setUp" finished-at="2025-10-23T12:30:22 IST" duration-ms="4544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductDetails()[pri:0, instance:com.saucedemo.tests.ProductDetailsTest@239105a8]" started-at="2025-10-23T12:30:22 IST" name="verifyProductDetails" finished-at="2025-10-23T12:30:23 IST" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.ProductDetailsTest@239105a8]" started-at="2025-10-23T12:30:23 IST" name="tearDown" finished-at="2025-10-23T12:30:24 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.ProductDetailsTest -->
+      <class name="com.saucedemo.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.LoginTest@1b410b60]" started-at="2025-10-23T12:29:55 IST" name="setUp" finished-at="2025-10-23T12:30:03 IST" duration-ms="8019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.saucedemo.tests.LoginTest@1b410b60]" started-at="2025-10-23T12:30:03 IST" name="invalidLoginTest" finished-at="2025-10-23T12:30:04 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.LoginTest@1b410b60]" started-at="2025-10-23T12:30:04 IST" name="tearDown" finished-at="2025-10-23T12:30:04 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.LoginTest@1b410b60]" started-at="2025-10-23T12:30:04 IST" name="setUp" finished-at="2025-10-23T12:30:10 IST" duration-ms="5841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:0, instance:com.saucedemo.tests.LoginTest@1b410b60]" started-at="2025-10-23T12:30:10 IST" name="validLoginTest" finished-at="2025-10-23T12:30:10 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.LoginTest@1b410b60]" started-at="2025-10-23T12:30:10 IST" name="tearDown" finished-at="2025-10-23T12:30:11 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.LoginTest -->
+      <class name="com.saucedemo.tests.CartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.CartTest@3fce8fd9]" started-at="2025-10-23T12:30:24 IST" name="setUp" finished-at="2025-10-23T12:30:34 IST" duration-ms="9962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCartPageLoads()[pri:0, instance:com.saucedemo.tests.CartTest@3fce8fd9]" started-at="2025-10-23T12:30:34 IST" name="verifyCartPageLoads" finished-at="2025-10-23T12:30:34 IST" duration-ms="967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartPageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.CartTest@3fce8fd9]" started-at="2025-10-23T12:30:34 IST" name="tearDown" finished-at="2025-10-23T12:30:35 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.CartTest -->
+      <class name="com.saucedemo.tests.CheckoutCompleteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.tests.CheckoutCompleteTest@560348e6]" started-at="2025-10-23T12:30:49 IST" name="setUp" finished-at="2025-10-23T12:30:55 IST" duration-ms="5391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyOrderConfirmation()[pri:0, instance:com.saucedemo.tests.CheckoutCompleteTest@560348e6]" started-at="2025-10-23T12:30:55 IST" name="verifyOrderConfirmation" finished-at="2025-10-23T12:30:56 IST" duration-ms="863" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at com.saucedemo.tests.CheckoutCompleteTest.verifyOrderConfirmation(CheckoutCompleteTest.java:16)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderConfirmation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.tests.CheckoutCompleteTest@560348e6]" started-at="2025-10-23T12:30:56 IST" name="tearDown" finished-at="2025-10-23T12:30:57 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.tests.CheckoutCompleteTest -->
+    </test> <!-- SauceDemoTests -->
+  </suite> <!-- SauceDemoSuite -->
+</testng-results>
